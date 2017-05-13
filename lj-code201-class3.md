@@ -1,4 +1,4 @@
-# LJ Code 201 - Day 2
+# LJ Code 201 - Day 3
 
 Today we were learning about for loops and while loops. Created two additional questions to our existing about_me project. Absolutely struggled with both of them. Not really sure exactly what I was doing. TA's were a big help!
 
