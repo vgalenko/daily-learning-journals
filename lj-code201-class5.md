@@ -1,4 +1,4 @@
-# LJ Code 201 - Day 3
+# LJ Code 201 - Day 5
 
 One of the few things that I learned last couple of days was how to merge branches
 in git hub to the master branch. As well as some intro to functions. I completely understood
