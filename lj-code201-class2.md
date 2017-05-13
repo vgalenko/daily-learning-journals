@@ -4,4 +4,4 @@ Today we were learning about for loops and while loops. Created two additional q
 
 Learned how to create git branch today by using git branch -b "new branch name".
 
-Also figured out how to manage CSS img element by using text-align to move it side to side. Figured out how margin, border, padding and content work. Very important to NOT use padding to move your content around the page, but instead use margin. 
+Also figured out how to manage CSS img element by using text-align to move it side to side. Figured out how margin, border, padding and content work. Very important to NOT use padding to move your content around the page, but instead use margin.
